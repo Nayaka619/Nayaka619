@@ -1,3 +1,2 @@
-`npm init discord.js
-
-`
+{Instal Discord.js}
+`npm init discord.js`
