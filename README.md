@@ -1,1 +1,3 @@
-`Help`
+`npm init discord.js
+
+`
