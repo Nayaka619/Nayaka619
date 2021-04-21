@@ -1,13 +1,13 @@
-const Discord = require('discord.js')
+const Discord = require('discord.js');
 
-const client = new Discord.Client
+const client = new Discord.Client();
 
 
 
 client.once('ready', () => {
-  console.log(You Have Successly Online Your Bot);
+    console.log('Your Bot Is Online');
 });
 
 
 
-client.login('Your Client ID')
+client.login('')
